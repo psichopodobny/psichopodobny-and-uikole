@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">psichopodobny — developer and researcher</title>
+  <desc id="desc">A monochrome profile banner. Reverse engineering, automation, web, servers and OSINT.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1b1b1b" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="16" fill="#090909"/>
+  <rect x="1" y="1" width="1278" height="358" rx="15" fill="url(#grid)" stroke="#303030"/>
+  <path d="M40 76V40H76M1204 40h36v36M40 284v36h36M1204 320h36v-36" fill="none" stroke="#777"/>
+  <text x="80" y="88" fill="#999" font-family="Consolas,monospace" font-size="13" letter-spacing="4">DEVELOPER / RESEARCHER</text>
+  <text x="76" y="183" fill="#f5f5f5" font-family="Consolas,monospace" font-size="68" font-weight="700" letter-spacing="-3">psichopodobny</text>
+  <rect x="80" y="215" width="48" height="3" fill="#f5f5f5"/>
+  <text x="80" y="260" fill="#b8b8b8" font-family="Consolas,monospace" font-size="14" letter-spacing="1">REVERSE ENGINEERING / AUTOMATION / OSINT / INFRASTRUCTURE</text>
+  <g transform="translate(1090 168)" fill="none" stroke="#787878">
+    <circle r="70" stroke="#303030"/><circle r="48"/><circle r="20" stroke="#e5e5e5"/>
+    <path d="M-90 0H90M0-90V90" stroke="#383838"/>
+    <path d="M-34-34 34 34M34-34-34 34" stroke="#e5e5e5"/>
+    <circle r="4" fill="#f5f5f5" stroke="none"/>
+  </g>
+  <text x="80" y="319" fill="#737373" font-family="Consolas,monospace" font-size="11" letter-spacing="2">UNDERSTAND. BUILD. AUTOMATE.</text>
+</svg>
