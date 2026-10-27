@@ -1,31 +1,21 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="psichopodobny">
+  <img src="./assets/winter-banner.webp" width="100%" alt="psichopodobny">
 </div>
 
 <br>
 
-### о себе
+### обо мне
 
-Мне 16, я psichopodobny. Пишу читы и полезный софт, делаю сайты и настраиваю серверы. Занимаюсь реверсом - нравится разбираться, как работают программы, и делать свои инструменты.
+Мне 16. Пишу читы и софт, который автоматизирует рутину или просто делает жизнь удобнее. Делаю сайты, настраиваю серверы и занимаюсь реверсом.
 
-Ещё занимаюсь OSINT, в основном GEOINT и HUMINT.
-
-### чем занимаюсь
-
-- читы и игровые инструменты
-- автоматизация и утилиты для повседневных задач
-- сайты и настройка серверов
-- реверс-инжиниринг
-- OSINT / GEOINT / HUMINT
+Ещё занимаюсь OSINT. Мои направления - GEOINT и HUMINT.
 
 <br>
 
 ### партнёр
 
-[uikoll](https://github.com/uikoll) - мой партнёр по разработке.
-
 <a href="https://github.com/uikoll">
-  <img src="./assets/partner.svg" width="100%" alt="uikoll">
+  <img src="./assets/partner.svg" width="100%" alt="uikoll - мой партнёр по разработке">
 </a>
 
 <br>
