@@ -1,35 +1,96 @@
 <div align="center">
-  <img src="./assets/arima-header.webp" width="100%" alt="psichopodobny - Арима Кишо, Tokyo Ghoul">
+  <img src="./assets/duo-header.gif" width="100%" alt="psichopodobny and uikole - монохромный Арима слева, цветной K-ON! справа">
   <br><br>
-  <h1>Добро пожаловать в мой профиль</h1>
-  <p>Я <strong>psichopodobny</strong>. Здесь мои проекты, инструменты и исследования.</p>
-  <br>
+  <h1>psichopodobny and uikole</h1>
+  <p>Два разработчика. Общие идеи, свои проекты и много кода.</p>
   <code>C#</code> &nbsp; <code>C++</code> &nbsp; <code>Rust</code> &nbsp; <code>Python</code>
-  <br><br>
-  <sub>reverse engineering / game tooling / automation / OSINT</sub>
 </div>
+
+<p align="center">
+  <a href="#кто-мы">о нас</a> &nbsp; / &nbsp;
+  <a href="#что-делаем">направления</a> &nbsp; / &nbsp;
+  <a href="#проекты">проекты</a> &nbsp; / &nbsp;
+  <a href="https://github.com/psichopodobny">psichopodobny ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/uikoll">uikole ↗</a>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="">
+
+## кто мы
+
+Мы **psichopodobny** и **uikole**, нам обоим по **16 лет**. Занимаемся разработкой софта, игровыми инструментами, автоматизацией и исследованиями. Эта страница - место для наших общих направлений, идей и проектов.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [psichopodobny](https://github.com/psichopodobny)
+
+<code>16</code> &nbsp; <code>DEVELOPER / RESEARCHER</code>
+
+Пишу на **C#**, **C++**, **Rust** и **Python**. Делаю читы для **Minecraft** и **Rust**, утилиты, софт для автоматизации, сайты и настраиваю серверы.
+
+Мои отдельные направления - **реверс-инжиниринг**, разбор программ и **GEOINT**. Интересно понять, как работает софт, из чего складывается его поведение и как устроены данные внутри.
+
+В исследованиях занимаюсь **OSINT**, проверкой открытой информации, геопространственными материалами и **HUMINT**. Сопоставляю источники и стараюсь разобраться в контексте находок.
+
+</td>
+<td width="50%" valign="top">
+
+### [uikole](https://github.com/uikoll)
+
+<code>16</code> &nbsp; <code>DEVELOPER / BUILDER</code>
+
+Мой напарник по коду. Пишет на **C#**, **C++**, **Rust** и **Python**. Делает игровой софт, читы для **Minecraft** и **Rust**, полезные утилиты и инструменты для автоматизации.
+
+Также занимается **сайтами**, **настройкой серверов**, **OSINT** и **HUMINT**. Ему интересны игровые модификации, технологии и идеи, которые можно превратить в собственный проект.
+
+Ему близки музыка, игры и визуальный стиль **K-ON!**. Здесь он - вторая половина нашего дуо.
+
+</td>
+</tr>
+</table>
+
+У нас общий стек и много общих интересов. Вместе обсуждаем задачи, придумываем игровые инструменты и делаем софт, который упрощает повседневные действия. При этом у каждого есть собственные разработки и направления, в которые хочется копнуть глубже.
+
+<a href="https://github.com/uikoll"><img src="./assets/uikole-link.svg" width="100%" alt="uikole - напарник по коду"></a>
 
 <br>
 
-## обо мне
+## что делаем
 
-Мне 16, в сети я **psichopodobny**. Пишу читы для **Minecraft** и **Rust**, делаю утилиты для автоматизации, сайты и настраиваю серверы. Люблю реверс, крякинг и задачи, в которых нужно понять, как устроен чужой софт.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```text
-alias      psichopodobny
-code       C# / C++ / Rust / Python
-focus      reverse engineering, game tools, automation
-research   OSINT / GEOINT / HUMINT
-off-duty   Dota 2 / VALORANT / Rust / GTA 5 RP - Majestic
-```
+### игровой софт
 
-Мне интересно разбирать логику программ, наблюдать за их поведением и собирать собственные инструменты. Могу надолго залипнуть в разбор софта или в задачу, которую хочется автоматизировать. Мне нравится, когда из такого разбора получается что-то, чем можно пользоваться.
+Читы и игровые инструменты для **Minecraft** и **Rust**, небольшие утилиты и модификации под свои задачи. Интересны и сами игры, и разработка вокруг них.
+
+### автоматизация
+
+Скрипты и приложения для повторяющихся действий: обработка файлов и данных, удобные интерфейсы и инструменты, которые помогают меньше делать вручную.
+
+</td>
+<td width="50%" valign="top">
+
+### сайты и серверы
+
+Создаём сайты, настраиваем окружение и серверы, запускаем сервисы. Работаем над тем, чтобы проектом было удобно пользоваться после запуска.
+
+### исследования
+
+**OSINT и HUMINT** - общие интересы. Поиск открытой информации, проверка источников и сопоставление сведений. **Реверс и GEOINT** - отдельный фокус psichopodobny.
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## проекты
 
-Здесь несколько моих разработок. У закрытых проектов публикую название и описание, исходники остаются приватными.
+Несколько разработок **psichopodobny**. Для приватных проектов здесь только названия и короткие описания.
 
 <table>
 <tr>
@@ -39,14 +100,14 @@ off-duty   Dota 2 / VALORANT / Rust / GTA 5 RP - Majestic
 
 <code>PRIVATE</code>
 
-Клиентский проект. Его исходники и внутреннее устройство пока держу закрытыми.
+Клиентский проект. Исходники и внутреннее устройство пока остаются закрытыми.
 
 </td>
 <td width="50%" valign="top">
 
 ### konspektik
 
-<code>PRIVATE</code> &nbsp; <code>PWA</code> &nbsp; <code>JavaScript</code>
+<code>PRIVATE</code> &nbsp; <code>PWA / JavaScript</code>
 
 Органайзер для учёбы: расписание, конспекты, формулы, учебники и заметки. Работает офлайн и устанавливается на Android как PWA.
 
@@ -57,59 +118,18 @@ off-duty   Dota 2 / VALORANT / Rust / GTA 5 RP - Majestic
 
 ### Probivochka / Fusion OSINT
 
-<code>PRIVATE</code> &nbsp; <code>Python</code> &nbsp; <code>OSINT</code>
+<code>PRIVATE</code> &nbsp; <code>Python / OSINT</code>
 
-Инструменты для OSINT-исследований: сбор и сопоставление информации, графовое представление связей и отчёты по результатам.
-
-</td>
-<td width="50%" valign="top">
-
-### [psichopodobny / profile](https://github.com/psichopodobny/psichopodobny)
-
-<code>PUBLIC</code> &nbsp; <code>Markdown</code> &nbsp; <code>SVG</code>
-
-Этот профиль: монохромное оформление с Аримой Кишо, зимние баннеры, проекты и подборка инструментов для реверса.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/psichopodobny?tab=repositories">публичные репозитории ↗</a>
-</p>
-
-<br>
-
-## инструменты для реверса
-
-Подборка для разбора бинарей, .NET-сборок, памяти и форматов файлов.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### нативный код и отладка
-
-- **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** - дизассемблирование, декомпиляция и анализ бинарей.
-- **[x64dbg](https://x64dbg.com/)** - отладка Windows-программ x86/x64, просмотр исполнения и памяти.
-
-### .NET и C#
-
-- **[dnSpyEx](https://github.com/dnSpyEx/dnSpy)** - просмотр, редактирование и отладка .NET-сборок.
-- **[ILSpy](https://github.com/icsharpcode/ILSpy)** - декомпиляция C# и изучение метаданных сборок.
+Инструменты для сбора и сопоставления информации, графового представления связей и подготовки отчётов по результатам исследований.
 
 </td>
 <td width="50%" valign="top">
 
-### файлы и структуры данных
+### psichopodobny and uikole
 
-- **[Detect It Easy](https://github.com/horsicq/Detect-It-Easy)** - определение формата файла и анализ его структуры.
-- **[ImHex](https://github.com/WerWolv/ImHex)** - hex-редактор для работы с бинарными данными.
+<code>PUBLIC</code> &nbsp; <code>README / ARTWORK</code>
 
-### память и модули
-
-- **[ReClass.NET](https://github.com/ReClassNET/ReClass.NET)** - изучение структур данных в памяти.
-- **[Xenos](https://github.com/DarthTon/Xenos)** - DLL-инжектор для экспериментов с загрузкой модулей.
+Эта общая страница: монохромная и цветная половины баннера, анимация и знакомство с тем, чем занимается каждый из нас.
 
 </td>
 </tr>
@@ -117,34 +137,7 @@ off-duty   Dota 2 / VALORANT / Rust / GTA 5 RP - Majestic
 
 <br>
 
-## OSINT
-
-Занимаюсь поиском и проверкой открытой информации: сопоставляю находки, изучаю цифровые следы и смотрю на контекст источников. Важно понять, откуда взялась информация и подтверждается ли она чем-то ещё.
-
-В исследованиях меня также интересуют **GEOINT** и **HUMINT**:
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### GEOINT
-
-Геопространственная информация: карты, открытые снимки, особенности местности и привязка материалов к месту.
-
-</td>
-<td width="50%" valign="top">
-
-### HUMINT
-
-Информация от людей и работа с человеческими источниками: контекст, оценка сообщений и сопоставление сведений.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## стек
+## наш стек
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-161616?style=for-the-badge" alt="C#">
@@ -153,38 +146,22 @@ off-duty   Dota 2 / VALORANT / Rust / GTA 5 RP - Majestic
   <img src="https://img.shields.io/badge/Python-161616?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
 </p>
 
-<p align="center">
-  <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>VS Code</code> &nbsp; <code>Visual Studio</code>
-</p>
+<p align="center"><code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>VS Code</code> &nbsp; <code>Visual Studio</code></p>
 
 <br>
 
-## вне кода
+## после кода
 
-Играю в **Dota 2**, **VALORANT**, **Rust** и **GTA 5 RP на Majestic**. Люблю аниме - визуальный стиль этой страницы собран вокруг **Арима Кишо из Tokyo Ghoul**.
+**Dota 2** / **VALORANT** / **Rust** / **GTA 5 RP - Majestic**
 
-<br>
+Иногда продолжаем обсуждать идеи уже в игре, иногда просто играем. По разработке и совместным проектам нас можно найти в профилях ниже.
 
-## uikole / мой кент
+<img src="./assets/divider.svg" width="100%" alt="">
 
-**[uikole](https://github.com/uikoll)** - мой кент и партнёр по разработке. Пишет на **C#**, **C++**, **Rust** и **Python**, интересуется софтом, игровыми модификациями, технологиями и творческими проектами.
-
-Вне кода любит **аниме, музыку и игры**. Его профиль оформлен в аниме-стиле, с персонажами **K-ON!** - эта часть его интересов видна сразу.
-
-Вместе занимаемся игровыми инструментами, автоматизацией, реверсом и другими техническими задачами. Обсуждаем идеи и работаем над проектами в одних и тех же направлениях.
-
-<a href="https://github.com/uikoll">
-  <img src="./assets/uikole-link.svg" width="100%" alt="uikole - мой кент и партнёр по разработке">
-</a>
-
-<p align="center">
-  <a href="https://github.com/uikoll">профиль uikole ↗</a>
+<div align="center">
+  <h3>дальше - наши репозитории</h3>
+  <p>Заглядывай в проекты и возвращайся за обновлениями.</p>
+  <a href="https://github.com/psichopodobny?tab=repositories"><b>psichopodobny ↗</b></a>
   &nbsp; / &nbsp;
-  <a href="https://github.com/uikoll?tab=repositories">его проекты ↗</a>
-</p>
-
-<br>
-
-<a href="https://github.com/psichopodobny?tab=repositories">
-  <img src="./assets/arima-footer.webp" width="100%" alt="Спасибо, что заглянул. Заглядывай в мои репозитории.">
-</a>
+  <a href="https://github.com/uikoll?tab=repositories"><b>uikole ↗</b></a>
+</div>
