@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/duo-header-v2.gif" width="100%" alt="psichopodobny and uikole - анимированный баннер, монохромная и цветная половины">
+  <img src="./assets/winter-duo-header.svg" width="100%" alt="psichopodobny and uikole - зимняя ночь с Аримой и цветной K-ON!">
   <br><br>
   <h1>psichopodobny and uikole</h1>
   <p>Разработка ПО / игровой софт / автоматизация</p>

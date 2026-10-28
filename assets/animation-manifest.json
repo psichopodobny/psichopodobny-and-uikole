@@ -1,0 +1,11 @@
+{
+  "primary": "winter-duo-header.svg",
+  "gifCopy": "winter-duo-header.gif",
+  "cycleSeconds": 8,
+  "nativeSnowStepsPerSecond": 60,
+  "nativePlayback": "browser and display dependent",
+  "gifMovingFrameDelayMs": 20,
+  "gifNominalFps": 50,
+  "endpointMaxPixelDifference": 0,
+  "cameraMotion": false
+}
