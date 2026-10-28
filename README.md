@@ -132,6 +132,26 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><img src="./assets/heading-deadcode.svg" width="100%" alt="DeadCode"></h3>
+
+<code>PRIVATE</code> &nbsp; <code>Rust</code>
+
+Чит для Rust. Приватная разработка.
+
+</td>
+<td width="50%" valign="top">
+
+<h3><img src="./assets/heading-stealer.svg" width="100%" alt="Stealer"></h3>
+
+<code>PRIVATE</code> &nbsp; <code>Majestic</code>
+
+Утилита для скрытия от проверок на Majestic. Исходники закрыты.
+
+</td>
+</tr>
 </table>
 
 <br>
