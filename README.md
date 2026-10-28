@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/winter-duo-header.svg" width="100%" alt="psichopodobny and uikole — Арима на фоне зимнего туманного парка и цветная K-ON!">
+  <img src="./assets/winter-duo-header.svg" width="100%" alt="psichopodobny and uikole - Арима с галстуком, туманная зима и цветная K-ON!">
   <br><br>
   <h1><img src="./assets/title-shared.svg" width="100%" alt="psichopodobny and uikole"></h1>
   <p>Разработка ПО / игровой софт / автоматизация</p>

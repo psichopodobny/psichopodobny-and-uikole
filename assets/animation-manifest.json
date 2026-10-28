@@ -7,5 +7,7 @@
   "gifMovingFrameDelayMs": 20,
   "gifNominalFps": 50,
   "endpointMaxPixelDifference": 0,
-  "cameraMotion": false
+  "cameraMotion": false,
+  "portraitResolution": "1080x1080",
+  "preservedRightHalfMaxPixelDifference": 0
 }
