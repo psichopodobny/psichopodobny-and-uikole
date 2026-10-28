@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./assets/winter-duo-header.svg" width="100%" alt="psichopodobny and uikole - зимняя ночь с Аримой и цветной K-ON!">
+  <img src="./assets/winter-duo-header.svg" width="100%" alt="psichopodobny and uikole — Арима на фоне зимнего туманного парка и цветная K-ON!">
   <br><br>
-  <h1>psichopodobny and uikole</h1>
+  <h1><img src="./assets/title-shared.svg" width="100%" alt="psichopodobny and uikole"></h1>
   <p>Разработка ПО / игровой софт / автоматизация</p>
   <code>C#</code> &nbsp; <code>C++</code> &nbsp; <code>Rust</code> &nbsp; <code>Python</code>
 </div>
@@ -16,7 +16,8 @@
 
 <img src="./assets/divider.svg" width="100%" alt="">
 
-## кто мы
+<a name="кто-мы"></a>
+<h2><img src="./assets/heading-who.svg" width="100%" alt="Кто мы"></h2>
 
 **psichopodobny** и **uikole**. Нам по **16 лет**. Разрабатываем игровой софт, прикладные утилиты и инструменты автоматизации. Работаем на **C#**, **C++**, **Rust** и **Python**.
 
@@ -24,7 +25,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [psichopodobny](https://github.com/psichopodobny)
+<h3><a href="https://github.com/psichopodobny"><img src="./assets/heading-psichopodobny.svg" width="100%" alt="psichopodobny"></a></h3>
 
 <code>DEVELOPMENT / REVERSE ENGINEERING</code>
 
@@ -37,7 +38,7 @@
 </td>
 <td width="50%" valign="top">
 
-### [uikole](https://github.com/uikoll)
+<h3><a href="https://github.com/uikoll"><img src="./assets/heading-uikole.svg" width="100%" alt="uikole"></a></h3>
 
 <code>DEVELOPMENT / AUTOMATION</code>
 
@@ -53,28 +54,29 @@
 
 <br>
 
-## что делаем
+<a name="что-делаем"></a>
+<h2><img src="./assets/heading-work.svg" width="100%" alt="Что делаем"></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### игровой софт
+<h3><img src="./assets/heading-game.svg" width="100%" alt="Игровой софт"></h3>
 
 Читы, клиентские инструменты и модификации для **Minecraft** и **Rust**.
 
-### автоматизация
+<h3><img src="./assets/heading-automation.svg" width="100%" alt="Автоматизация"></h3>
 
 Скрипты и приложения для обработки файлов, данных и повторяющихся операций.
 
 </td>
 <td width="50%" valign="top">
 
-### сайты и серверы
+<h3><img src="./assets/heading-web.svg" width="100%" alt="Сайты и серверы"></h3>
 
 Разработка сайтов, настройка серверов и окружения, запуск сервисов.
 
-### исследования
+<h3><img src="./assets/heading-research.svg" width="100%" alt="Исследования"></h3>
 
 **OSINT / HUMINT** - совместные направления. **Реверс-инжиниринг / GEOINT** - направления psichopodobny.
 
@@ -84,7 +86,8 @@
 
 <br>
 
-## проекты
+<a name="проекты"></a>
+<h2><img src="./assets/heading-projects.svg" width="100%" alt="Проекты"></h2>
 
 Разработки **psichopodobny**. Для приватных репозиториев доступны краткие описания.
 
@@ -92,7 +95,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Vortex-client
+<h3><img src="./assets/heading-vortex.svg" width="100%" alt="Vortex-client"></h3>
 
 <code>PRIVATE</code>
 
@@ -101,7 +104,7 @@
 </td>
 <td width="50%" valign="top">
 
-### konspektik
+<h3><img src="./assets/heading-konspektik.svg" width="100%" alt="konspektik"></h3>
 
 <code>PRIVATE</code> &nbsp; <code>PWA / JavaScript</code>
 
@@ -112,7 +115,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### Probivochka / Fusion OSINT
+<h3><img src="./assets/heading-fusion.svg" width="100%" alt="Probivochka / Fusion OSINT"></h3>
 
 <code>PRIVATE</code> &nbsp; <code>Python / OSINT</code>
 
@@ -121,7 +124,7 @@
 </td>
 <td width="50%" valign="top">
 
-### psichopodobny and uikole
+<h3><img src="./assets/heading-shared-project.svg" width="100%" alt="psichopodobny and uikole"></h3>
 
 <code>PUBLIC</code> &nbsp; <code>README / ARTWORK</code>
 
@@ -133,7 +136,8 @@
 
 <br>
 
-## наш стек
+<a name="наш-стек"></a>
+<h2><img src="./assets/heading-stack.svg" width="100%" alt="Наш стек"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-161616?style=for-the-badge" alt="C#">
@@ -149,7 +153,7 @@
 <img src="./assets/divider.svg" width="100%" alt="">
 
 <div align="center">
-  <h3>репозитории</h3>
+  <h2><img src="./assets/heading-repositories.svg" width="100%" alt="Репозитории"></h2>
   <a href="https://github.com/psichopodobny?tab=repositories"><b>psichopodobny ↗</b></a>
   &nbsp; / &nbsp;
   <a href="https://github.com/uikoll?tab=repositories"><b>uikole ↗</b></a>
